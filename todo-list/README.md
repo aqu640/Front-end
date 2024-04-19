@@ -1,5 +1,6 @@
 ## Build Setup
-#https://www.youtube.com/watch?v=a02jXHb3_Rs
+# 來源
+$ https://www.youtube.com/watch?v=a02jXHb3_Rs
 
 ```
 # Vuex 官網
