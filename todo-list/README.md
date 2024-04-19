@@ -1,6 +1,11 @@
-# yt
-
 ## Build Setup
+#https://www.youtube.com/watch?v=a02jXHb3_Rs
+
+#Vuex 官網
+#https://vuex.vuejs.org/zh/installation.html#yarn
+#node.js 官網 
+#https://nodejs.org/en
+
 
 ```bash
 # install dependencies
@@ -16,7 +21,7 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
-
+#nuxtjs.org 官網
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
 
 ## Special Directories
